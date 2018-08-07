@@ -36,7 +36,7 @@ do
   trimmed=$(trim_script "$element")
   . $trimmed
   new_theme_file="${element/.sh/.json}"
-  if [ -f "$file" ]
+  if [ -f "$new_theme_file" ]
   then
     rm "$new_theme_file"
     wait
