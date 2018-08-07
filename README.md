@@ -33,4 +33,4 @@ Then, yet again, run the script. But, -again- the script requires the path for t
 ```
 ## Credits
 * [Mayccoll](https://github.com/Mayccoll) for the [Gogh](https://github.com/Mayccoll/Gogh) compilation.
-* Appreciate to [Gerald Nunn](https://github.com/gnunn1) for the awesome terminal emulator (Tilix)[https://github.com/gnunn1/tilix].
+* Appreciate to [Gerald Nunn](https://github.com/gnunn1) for the awesome terminal emulator [Tilix](https://github.com/gnunn1/tilix).
