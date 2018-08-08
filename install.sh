@@ -45,7 +45,7 @@ do
   echo -e "{\n    \"background-color\": \"$BACKGROUND_COLOR\"," >> $new_theme_file
   echo -e "    \"badge-color\": \"$BACKGROUND_COLOR\"," >> $new_theme_file
   echo -e "    \"bold-color\": \"$BACKGROUND_COLOR\"," >> $new_theme_file
-  echo -e "    \"comment\": \"Created by isacikgoz\"," >> $new_theme_file
+  echo -e "    \"comment\": \"Generated with gogh-to-tilix.\"," >> $new_theme_file
   echo -e "    \"cursor-background-color\": \"$BACKGROUND_COLOR\"," >> $new_theme_file
   echo -e "    \"cursor-foreground-color\": \"$CURSOR_COLOR\"," >> $new_theme_file
   echo -e "    \"foreground-color\": \"$FOREGROUND_COLOR\"," >> $new_theme_file
