@@ -82,5 +82,8 @@ do
   rm $trimmed
 done
 
+# =============================================================== #
+# hopefully everything went smooth
+# =============================================================== #
 printf "Successfully added ${#array[@]} theme files into : $1"
 

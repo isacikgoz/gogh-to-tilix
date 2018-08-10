@@ -31,5 +31,8 @@ do
   fi
 done
 
+# =============================================================== #
+# hopefully everything went smooth 
+# =============================================================== #
 printf "Successfully removed themes from : $1"
 
